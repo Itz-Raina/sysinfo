@@ -41,7 +41,7 @@ Usage: sysinfo <args>
     -g, --gentoo      Print Gentoo ascii logo
     -v, --void        Print Void ascii logo
     -d, --debian      Print Debian ascii logo
-    -V, --version     Prints the current sysinfo version
+    -V, --version     Prints the current Sysinfo version
 "
 
   exit 1
