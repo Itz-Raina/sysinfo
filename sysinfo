@@ -33,7 +33,7 @@ os=$(lsb_release -a | awk '/^Description/ {print $2,$3}')
 
 usage()
 {
-printf "%s""
+printf "%s" "
 Usage: sysinfo <args>
     -h, --help        Prints this help page
     -a, --arch        Print Arch ascii logo
