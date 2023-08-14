@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# add asciii logo if possible
-
 ### Variables ###
 
 version="1.0"
